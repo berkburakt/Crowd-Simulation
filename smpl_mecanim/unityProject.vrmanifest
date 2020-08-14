@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.smpl_mecanim.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Crowd-Simulation\\smpl_mecanim\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "SMPL_mecanim [Testing]"
+        }
+      }
+    }
+  ]
+}
